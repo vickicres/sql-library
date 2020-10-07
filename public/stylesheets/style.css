@@ -1,10 +1,12 @@
 body {
   padding: 10px 50px 50px;
   font: 18px "Garamond", serif;
+  background: url(./images/book-3.jpg) no-repeat center center fixed;
+  background-size: cover, contain; 
 }
 
 a {
-  color: #019875;
+  color: #070707;
   text-decoration: none;
   font-weight: bold;
   transition: 0.4s;
@@ -54,7 +56,7 @@ h2 {
 }
 
 th {
-  border-bottom: 2px solid #D8B493;
+  border-bottom: 3px solid #D8B493;
   text-align: left;
   padding: 5px 20px 5px 10px;
 }
