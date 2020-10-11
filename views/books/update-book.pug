@@ -5,7 +5,7 @@ block content
 
   form(action="/books/" + book.id, method="post")
     if(errors)
-      h2.errors Oops an error occurred!
+      h2.errors Ooops!
       ul.errors
         each error in errors
            li
