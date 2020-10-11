@@ -2,8 +2,8 @@
 
 
 ## CSS Style Update Change
-<p>change background image</p>
-<p>h1 font size</p>
+<p>Add background image</p>
+<p>font size</p>
 <p>font color change</p>
 <p>button color change</p>
 
