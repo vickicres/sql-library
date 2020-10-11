@@ -2,10 +2,10 @@
 
 
 ## CSS Style Update Change
-change background image
-h1 font size
-font color change
-button color change
+<p>change background image</p>
+<p>h1 font size</p>
+<p>font color change</p>
+<p>button color change</p>
 
 In the project directory, you can run:
 
